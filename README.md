@@ -1,10 +1,12 @@
-# Manual Prático de Git e GitHub
+
+# Manual Prático de Git e GitHub [![Tecnologias](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 Este repositório é um manual colaborativo feito por estudantes com o objetivo de ensinar os conceitos e comandos básicos de Git e GitHub. O material está dividido em módulos simples e organizados, feitos especialmente para quem está começando na área da tecnologia.
 
 ## Integrantes do Grupo
 
 - [Gabriel Fonseca Proenca](https://github.com/fonsecak)
+- [Marcos Kaiky Garcia](https://github.com/marcoskaiky)
 
 ## Índice
 
