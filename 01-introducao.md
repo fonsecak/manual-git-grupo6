@@ -1,35 +1,95 @@
-# 01 - Introdução ao Git e ao Controle de Versão
+Introdução ao Git / GitHub.
 
-## O que é controle de versão?
+[![Tecnologias](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-Controle de versão é um sistema usado para registrar e acompanhar as mudanças feitas em arquivos de um projeto. Ele é muito importante para quem desenvolve sistemas, pois permite voltar em versões anteriores, entender quem fez cada modificação e colaborar em equipe sem bagunçar o código.
 
-Sem controle de versão, as pessoas acabam criando várias cópias dos mesmos arquivos com nomes como:
-- `trabalho-final-v1`
-- `trabalho-final-v2`
-- `trabalho-final-definitivo-mesmo`
+##Tópicos que serão abordados:
 
-Isso vira uma confusão! O controle de versão evita esse problema.
+○ O que é controle de versão 
 
-## Problemas resolvidos pelo Git
+○ Problemas resolvidos pelo Git 
 
-O Git ajuda a resolver muitos problemas do dia a dia de quem programa:
+○ Breve histórico do Git 
 
-- Permite trabalhar em grupo no mesmo projeto, sem atrapalhar o trabalho dos outros.
-- Mostra quem fez cada mudança e quando.
-- Salva o histórico de versões do projeto.
-- Permite testar ideias novas sem afetar o projeto principal.
-- Facilita o retorno para versões antigas, caso algo dê errado.
-
-## Breve histórico do Git
-
-O Git foi criado em 2005 por Linus Torvalds, o mesmo que criou o sistema Linux. Na época, ele precisava de uma ferramenta para que várias pessoas pudessem colaborar no código do Linux com segurança, rapidez e organização. Por isso, o Git foi criado e, com o tempo, se tornou uma das ferramentas mais usadas no mundo do desenvolvimento.
-
-## Diferença entre Git e GitHub
-
-- **Git**: é uma ferramenta de controle de versão que funciona no seu computador. Com ela, você consegue criar, salvar e acompanhar versões de projetos localmente, sem precisar de internet.
-
-- **GitHub**: é um site onde você pode salvar seus projetos feitos com Git e compartilhar com outras pessoas. Ele funciona como uma nuvem para os seus repositórios e permite colaboração com outros programadores.
+○ Diferença entre Git e GitHub 
 
 
 
+##O que é Controle de Versão?
+
+🔧 Definição técnica:
+Controle de versão é um sistema que registra e gerencia o histórico de alterações feitas em arquivos de um projeto — seja código-fonte, documentos, imagens ou qualquer outro tipo de arquivo digital.
+
+Esses sistemas permitem:
+✅ Rastreabilidade: saber quem fez cada alteração, quando e por quê.
+
+✅ Histórico de versões: recuperar versões antigas a qualquer momento.
+
+✅ Controle de concorrência: evitar conflitos quando várias pessoas trabalham no mesmo projeto simultaneamente.
+
+✅ Branching e merging: criar ramificações (branches) para desenvolver novas funcionalidades ou corrigir erros sem afetar o código principal, e depois integrar (merge) essas mudanças.
+
+---
+
+##Problemas que o Git resolve. 
+
+Antes do Git, quem trabalhava em grupo enfrentava problemas como:
+
+❌ Arquivos sobrescritos sem querer.
+
+❌ Perder alterações importantes.
+
+❌ Não saber quem alterou o quê.
+
+❌ Dificuldade para voltar para uma versão anterior.
+
+❌ Confusão com muitos arquivos diferentes (v1, v2, vfinal, etc).
+
+Com o Git, você resolve tudo isso de forma fácil e organizada!
+Cada alteração é salva como um ponto no tempo. Se der problema, você pode voltar e desfazer sem dor de cabeça.
+
+---
+
+ ##Breve histórico do Git
+ Criado em 2005 por Linus Torvalds, o mesmo criador do Linux.
+
+Ele criou o Git porque precisava de uma ferramenta que fosse:
+
+🔸 Rápida
+
+🔸 Segura
+
+🔸 Distribuída (ou seja, cada um tem uma cópia completa do projeto, não depende só da internet)
+
+Hoje, o Git é usado pelas maiores empresas do mundo: Google, Microsoft, Amazon, Meta, Netflix, e praticamente qualquer empresa de tecnologia.
+
+---
+
+
+##Qual é a diferença entre Git e GitHub?
+
+ Git
+
+🔸É um sistema de controle de versão distribuído (DVCS).
+🔸Funciona localmente no seu computador.
+🔸Utiliza comandos no terminal como git init, git commit, git log para gerenciar o projeto.
+🔸Armazena o repositório com todo o histórico de versões localmente.
+🔸Permite trabalhar offline.
+🔸Trabalha com conceitos como commit, branch, merge, HEAD, staging area, SHA-1, repositório local.
+
+
+GitHub
+
+🔹É uma plataforma de hospedagem de repositórios Git na nuvem.
+🔹Funciona online, pela internet.
+🔹Possui interface gráfica e usa comandos como git push e git pull para interação com o repositório remoto.
+🔹Armazena uma cópia do repositório remoto, facilitando a colaboração em equipe.
+🔹Depende de conexão com a internet para sincronizar.
+🔹Oferece recursos adicionais como Pull Requests, Issues.
+  
+
+🔹 Resumo simples:
+Git = ferramenta que salva o histórico do seu projeto.
+GitHub = site onde você guarda esse projeto na internet.
+
+---

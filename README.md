@@ -5,6 +5,7 @@ Este repositório é um manual colaborativo feito por estudantes com o objetivo 
 ## Integrantes do Grupo
 
 - [Gabriel Fonseca Proenca](https://github.com/fonsecak)
+- [Marcos Kaiky Rodrigues Garcia](https://github.com/marcoskaiky)
 
 ## Índice
 
