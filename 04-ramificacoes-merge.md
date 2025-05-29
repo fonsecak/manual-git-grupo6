@@ -55,13 +55,7 @@ Vá para o branch que receberá as alterações (ex.: main):
 ## Conflitos no Merge
 Ocorrem quando há mudanças conflitantes no mesmo arquivo ou linha entre os branches.
 
-O Git marca o conflito no arquivo assim:
 
-<<<<<<< HEAD
-Seu código atual
-=======
-Código do branch que está sendo mesclado
->>>>>>> feature/login
 
 ---
  
