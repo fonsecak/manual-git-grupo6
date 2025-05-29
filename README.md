@@ -6,6 +6,8 @@ Este repositório é um manual colaborativo feito por estudantes com o objetivo 
 
 - [Gabriel Fonseca Proenca](https://github.com/fonsecak)
 - [Marcos Kaiky Rodrigues Garcia](https://github.com/marcoskaiky)
+- [Joao Guilherme de Carvalho Sanches](https://github.com/JoaoGuilhermeSanches911)
+
 
 ## Índice
 
