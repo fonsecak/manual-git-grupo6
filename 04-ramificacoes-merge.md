@@ -61,7 +61,7 @@ Ocorrem quando há mudanças conflitantes no mesmo arquivo ou linha entre os bra
  
 ## Como resolver:
 
-Edite o arquivo, escolha o código correto e remova as marcações (<<<<<<<, =======, >>>>>>>).
+Edite o arquivo, escolha o código correto e remova as marcações.
 
 Salve o arquivo.
 
