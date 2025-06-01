@@ -18,3 +18,7 @@ Este repositório é um manual colaborativo feito por estudantes com o objetivo 
 - [3. Comandos Básicos](./03-comandos-basicos.md)
 - [4. Branches e Merge](./04-ramificacoes-merge.md)
 - [5. GitHub e Pull Requests](./05-pull-requests.md)
+
+## Diagrama básico GIT
+
+![GIT Diagram](https://github.com/user-attachments/assets/79b84b38-5cc7-42b6-b899-286df0d658b4)
